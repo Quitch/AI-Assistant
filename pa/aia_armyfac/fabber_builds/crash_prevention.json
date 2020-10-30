@@ -1,0 +1,12 @@
+{
+  "build_list": [
+    {
+      "name": "Don't crash the server",
+      "to_build": "BasicBotFactory",
+      "instance_count": 1,
+      "priority": 0,
+      "builders": ["UberCommander"],
+      "build_conditions": [[]]
+    }
+  ]
+}
