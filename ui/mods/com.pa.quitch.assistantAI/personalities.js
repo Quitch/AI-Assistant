@@ -14,7 +14,7 @@ function aiAssistant() {
   var newPersonalities = {
     aiAssistant: {
       ai_path: "/pa/ai_assistant",
-      display_name: "!LOC:AI Assistant",
+      display_name: "!LOC:Assistant",
       adv_eco_mod_alone: 0,
       adv_eco_mod: 1,
       energy_demand_check: 0.8,
