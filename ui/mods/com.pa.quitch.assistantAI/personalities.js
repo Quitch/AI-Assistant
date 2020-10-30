@@ -102,7 +102,7 @@ function aiAssistant() {
     model.localChatMessage(
       loc("!LOC:AI Assistant"),
       loc(
-        "!LOC:by Quitch. For single-player only using a local server. Setup a shared army and add one AI Assistant to it. If you cannot share an army with the AI then you didn't follow the setup instructions."
+        "!LOC:by Quitch. For single-player only using a local server. If you haven't read the setup instructions then prepare to be confused."
       )
     );
   });
