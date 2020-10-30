@@ -22,6 +22,9 @@
     "accessibility"
   ],
   "icon": "https://raw.githubusercontent.com/Quitch/AI-Assistant/develop/images/icon.png",
+  "scenes": {
+    "new_game": ["coui://ui/mods/com.pa.quitch.assistantAI/personalities.js"]
+  },
   "priority": 100,
   "titansOnly": true
 }
