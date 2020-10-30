@@ -1,0 +1,27 @@
+{
+  "context": "server",
+  "identifier": "com.pa.quitch.assistantAI-dev",
+  "display_name": "AI Assistant",
+  "description": "AI accessibility profiles to take over fabber, factory, or army handling. Requires you to manually edit a game file; see the forum thread for details.",
+  "author": "Quitch",
+  "version": "dev",
+  "build": "115013",
+  "date": "2020-10-30",
+  "signature": " ",
+  "forum": "https://forums.planetaryannihilation.com/threads/ai-assistant.73522/",
+  "category": [
+    "ai",
+    "ki",
+    "ia",
+    "si",
+    "ИИ",
+    "电脑",
+    "電腦",
+    "titans",
+    "skirmish",
+    "accessibility"
+  ],
+  "icon": "https://raw.githubusercontent.com/Quitch/AI-Assistant/develop/images/icon.png",
+  "priority": 100,
+  "titansOnly": true
+}
