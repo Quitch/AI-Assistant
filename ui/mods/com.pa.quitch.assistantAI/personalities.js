@@ -15,14 +15,10 @@ function aiAssistant() {
     aiaArmy: {
       ai_path: "/pa/aia_army",
       display_name: "!LOC:AIA Captain",
-      metal_drain_check: 0.54,
-      energy_drain_check: 0.65,
-      metal_demand_check: 0.85,
-      energy_demand_check: 0.8,
-      adv_eco_mod: 1,
-      adv_eco_mod_alone: 0,
-      min_basic_fabbers: 3,
-      min_advanced_fabbers: 1,
+      micro_type: 2,
+      go_for_the_kill: true,
+      priority_scout_metal_spots: true,
+      neural_data_mod: 1,
     },
     aiaFabber: {
       ai_path: "/pa/aia_fabber",
