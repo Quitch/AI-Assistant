@@ -2,7 +2,7 @@
   "context": "server",
   "identifier": "com.pa.quitch.assistantAI-dev",
   "display_name": "AI Assistant",
-  "description": "AI accessibility profiles to take over fabber, factory, or army handling. Requires you to manually edit a game file; see the forum thread for details. Works only for AI skirmish using a local server.",
+  "description": "AI accessibility profiles to take over fabber, factory, or army handling. Requires you to manually edit a game file; see the forum thread for details. Works only for AI skirmish using a local server. Compatible with the Legion Expansion.",
   "author": "Quitch",
   "version": "dev",
   "build": "115013",
